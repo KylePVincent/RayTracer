@@ -110,6 +110,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Header Files\main.hpp" />
+    <ClInclude Include="Header Files\NearlyEqual_Pub.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source Files\NearlyEqual_Pub.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
