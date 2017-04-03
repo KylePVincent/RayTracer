@@ -16,8 +16,8 @@
     <Filter Include="Source Files\3D_Geometry">
       <UniqueIdentifier>{094e0688-9020-4bbf-a742-f25b041ced8f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Resource Files\3D_Geometry">
-      <UniqueIdentifier>{c96f638f-c3ae-4e60-92df-42cfeecec623}</UniqueIdentifier>
+    <Filter Include="Header Files\3D_Geometry">
+      <UniqueIdentifier>{d9da2799-7fa3-4022-9285-06f57a38f5e8}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

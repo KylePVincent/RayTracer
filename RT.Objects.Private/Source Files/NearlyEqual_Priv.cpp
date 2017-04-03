@@ -1,1 +1,1 @@
-#include "C:\SourceCode\GitHub\MSVS2015\RayTracer\RT.Objects.Private\Header Files\NearlyEqual_Priv.hpp"
+#include "RT.Objects.Private\Header Files\NearlyEqual_Priv.hpp"

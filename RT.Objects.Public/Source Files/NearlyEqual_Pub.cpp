@@ -1,4 +1,4 @@
-#include "C:\SourceCode\GitHub\MSVS2015\RayTracer\RT.Objects.Public\Header Files\NearlyEqual_Pub.hpp"
+#include "RT.Objects.Public\Header Files\NearlyEqual_Pub.hpp"
 
 
 
