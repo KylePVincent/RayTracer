@@ -1,4 +1,5 @@
 # RayTracer
+
 A Ray Tracer
 
 By: Kyle P. Vincent
