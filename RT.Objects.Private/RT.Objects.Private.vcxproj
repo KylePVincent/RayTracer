@@ -118,6 +118,7 @@
     <ClInclude Include="Header Files\NearlyEqual_Priv.hpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Source Files\main.cpp" />
     <ClCompile Include="Source Files\NearlyEqual_Priv.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
